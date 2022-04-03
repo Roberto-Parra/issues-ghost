@@ -7,21 +7,20 @@ assignees: ''
 
 ---
 
-** Comportamiento Esperado:**
+**Comportamiento Esperado:**
 Se espera que ...
 
-**Comportamiento Actual: **
+**Comportamiento Actual:**
 Una vez se ...
 
 **Pasos a reproducir**
-Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
 **Evidencias**
-If applicable, add screenshots to help explain your problem.
+
 
 **Contexto (Ambiente de ejecución)**
  - App versión: 3.41.1  
